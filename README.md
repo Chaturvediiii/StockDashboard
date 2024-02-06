@@ -1,6 +1,6 @@
 # React + Tailwind StockTracker
 
-Welcome to StockTracker, a React-based web application styled with Tailwind CSS, providing daily updated stock information for various companies worldwide.
+Welcome to StockTracker, a React-based web application styled with Tailwind CSS, providing daily updated stock information for various companies worldwide you searched for.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,7 @@ Welcome to StockTracker, a React-based web application styled with Tailwind CSS,
 
 ## Introduction
 
-StockTracker is a web platform developed with React and styled using Tailwind CSS. It offers daily updated stock information for a wide range of companies worldwide. Whether you're an investor or simply curious about the financial markets, StockTracker provides you with a responsive and user-friendly interface to explore and analyze stock data.
+StockTracker is a web platform developed with React and styled using Tailwind CSS. It offers daily updated stock information for a wide range of companies worldwide. Whether you're an investor or simply curious about the financial markets, StockTracker provides you with a responsive and user-friendly interface to explore and analyze stock data. You can search for companies you are interested in and can view there updates.
 
 ## Features
 
