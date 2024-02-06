@@ -25,7 +25,7 @@ StockTracker is a web platform developed with React and styled using Tailwind CS
 To get started with StockTracker, follow these steps:
 
 1. Clone the repository: `https://github.com/Chaturvediiii/StockDashboard.git`
-2. Navigate to the project directory: `cd react-tailwind-stocktracker`
+2. Navigate to the project directory: `cd StockDashboard`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
