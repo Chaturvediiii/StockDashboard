@@ -31,7 +31,7 @@ To get started with StockTracker, follow these steps:
 
 ## Usage
 
-1. Upon accessing the website, you'll see a list of companies and their corresponding stock information.
+1. Upon accessing the website, you'll see a search box where you can search for companies and view their stocks updates.
 2. Use the search bar to find specific companies or browse through the available options.
 3. Click on a company to view detailed stock data, including historical charts and key financial metrics.
 
@@ -40,7 +40,7 @@ To get started with StockTracker, follow these steps:
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - JavaScript
-- [Finnhub API][https://finnhub.io/]
+- [Finnhub API](https://finnhub.io/)
 
 ## Contributing
 
